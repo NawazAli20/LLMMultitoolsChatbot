@@ -1,4 +1,4 @@
-# WeatherApp
+# Multi-tools Chatbot
 Multi-tools Chatbot is implemeted in ./LLMsIntro/MultiToolsChatbot.py
 
 ## Install Langchain-tavily
