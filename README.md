@@ -1,5 +1,12 @@
 # WeatherApp
-Chatbot is implemeted in ./LLMsIntro/weatherAPPs.py
+Multi-tools Chatbot is implemeted in ./LLMsIntro/MultiToolsChatbot.py
+
+## Install Langchain-tavily
+uv add langchain-tavily
+
+## Install Langchain-community
+uv add langchain-community duckduckgo-search ddgs
+
 
 ### How to run 
 
@@ -7,8 +14,10 @@ uv run weatherAPPs.py
 
 # Repo and Dependencies Installations commands 
 
-Resource Links: 
+Resource Links:
 - [Complete youtube playlist](https://www.youtube.com/playlist?list=PLfpB0rPkNb_8)
+- [DuckDuckGoSearch](https://reference.langchain.com/python/langchain-community/tools/ddg_search/tool/DuckDuckGoSearchRun)
+- [Youdotcom API Key](https://you.com/platform/api-keys) 
 - [OpenWeatherMap](https://openweathermap.org/)
 - [UV github repo](https://github.com/astral-sh/uv)
 - [langchain docs]()

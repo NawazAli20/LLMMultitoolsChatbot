@@ -4,3 +4,6 @@ langchain-openai
 langchain-groq
 ipykernel 
 python-dotenv
+langchain-tavily
+duckduckgo-search
+langchain-youdotcom 
