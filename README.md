@@ -20,11 +20,12 @@ uv run weatherAPPs.py
 Resource Links:
 - [OpenWeatherMap](https://openweathermap.org/)
 - [OpenWeatherMap API Key](https://openweathermap.org/api)
+- [langchain structured output](https://docs.langchain.com/oss/python/langchain/structured-output))
 - [Complete youtube playlist](https://www.youtube.com/playlist?list=PLfpB0rPkNb_8)
 - [DuckDuckGoSearch](https://reference.langchain.com/python/langchain-community/tools/ddg_search/tool/DuckDuckGoSearchRun)
 - [Youdotcom API Key](https://you.com/platform/api-keys) 
 - [UV github repo](https://github.com/astral-sh/uv)
-- [langchain structured output](- [langchain docs](https://docs.langchain.com/oss/python/langchain/structured-output))
+
 - [Groq API Key](https://console.groq.com/keys)
 - [OpenAI API Key](https://platform.openai.com/api-keys)
 
