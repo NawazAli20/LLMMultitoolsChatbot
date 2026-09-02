@@ -24,7 +24,7 @@ Resource Links:
 - [DuckDuckGoSearch](https://reference.langchain.com/python/langchain-community/tools/ddg_search/tool/DuckDuckGoSearchRun)
 - [Youdotcom API Key](https://you.com/platform/api-keys) 
 - [UV github repo](https://github.com/astral-sh/uv)
-- [langchain docs]()
+- [langchain structured output](- [langchain docs](https://docs.langchain.com/oss/python/langchain/structured-output))
 - [Groq API Key](https://console.groq.com/keys)
 - [OpenAI API Key](https://platform.openai.com/api-keys)
 
