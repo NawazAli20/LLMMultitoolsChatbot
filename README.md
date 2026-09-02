@@ -15,10 +15,11 @@ uv run weatherAPPs.py
 # Repo and Dependencies Installations commands 
 
 Resource Links:
+- [OpenWeatherMap](https://openweathermap.org/)
+- [OpenWeatherMap API Key]https://openweathermap.org/api
 - [Complete youtube playlist](https://www.youtube.com/playlist?list=PLfpB0rPkNb_8)
 - [DuckDuckGoSearch](https://reference.langchain.com/python/langchain-community/tools/ddg_search/tool/DuckDuckGoSearchRun)
 - [Youdotcom API Key](https://you.com/platform/api-keys) 
-- [OpenWeatherMap](https://openweathermap.org/)
 - [UV github repo](https://github.com/astral-sh/uv)
 - [langchain docs]()
 - [Groq API Key](https://console.groq.com/keys)
