@@ -16,7 +16,7 @@ uv run weatherAPPs.py
 
 Resource Links:
 - [OpenWeatherMap](https://openweathermap.org/)
-- [OpenWeatherMap API Key]https://openweathermap.org/api
+- [OpenWeatherMap API Key](https://openweathermap.org/api)
 - [Complete youtube playlist](https://www.youtube.com/playlist?list=PLfpB0rPkNb_8)
 - [DuckDuckGoSearch](https://reference.langchain.com/python/langchain-community/tools/ddg_search/tool/DuckDuckGoSearchRun)
 - [Youdotcom API Key](https://you.com/platform/api-keys) 
