@@ -21,7 +21,7 @@ Resource Links:
 - [OpenWeatherMap](https://openweathermap.org/)
 - [OpenWeatherMap API Key](https://openweathermap.org/api)
 - [Langchain Message Formats](https://docs.langchain.com/oss/python/langchain/messages)
-- [langchain structured output](https://docs.langchain.com/oss/python/langchain/structured-output)
+- [Langchain structured output](https://docs.langchain.com/oss/python/langchain/structured-output)
 - [Complete youtube playlist](https://www.youtube.com/playlist?list=PLfpB0rPkNb_8)
 - [DuckDuckGoSearch](https://reference.langchain.com/python/langchain-community/tools/ddg_search/tool/DuckDuckGoSearchRun)
 - [Youdotcom API Key](https://you.com/platform/api-keys) 
